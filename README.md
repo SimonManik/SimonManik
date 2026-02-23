@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on app for coaches<br>👯 I’m looking to collaborate on some intersting and perspective projects<br>🌱 I’m currently learning C#<br>⚡ Fun fact I love running ! 
+🔭 I’m currently working on app for coaches<br>👯 I’m looking to collaborate on some intersting and perspective projects<br>🌱 I’m currently learning C#<br>⚡ Fun fact I love running ! I am currently training for a marathon in Bratislava in April ! 
 
 
 ## 🌐 Socials:
